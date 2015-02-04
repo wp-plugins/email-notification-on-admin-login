@@ -3,7 +3,7 @@ Contributors: Azumi93
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QKPPZSQYBU7KS
 Tags: email notify on admin login, admin login notification, email notification
 Requires at least: 3.0.1
-Tested up to: 3.9.1
+Tested up to: 4.1
 Stable tag: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
